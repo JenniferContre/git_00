@@ -1,0 +1,65 @@
+---
+title: "git_00"
+author: "Your Name here"
+date: "Year 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+To him who in the love of Nature holds   
+
+Communion with her visible forms, she speaks   
+
+A various language; for his gayer hours   
+
+She has a voice of gladness, and a smile   
+
+And eloquence of beauty, and she glides   
+
+Into his darker musings, with a mild   
+
+And healing sympathy, that steals away   
+
+Their sharpness, ere he is aware.  When thoughts   
+
+Of the last bitter hour come like a blight   
+
+Over thy spirit, and sad images   
+
+Of the stern agony, and shroud, and pall,   
+
+And breathless darkness, and the narrow house,   
+
+Make thee to shudder, and grow sick at heart;—   
+
+Go forth, under the open sky, and list   
+
+To Nature’s teachings, while from all around— 
+
+Earth and her waters, and the depths of air— 
+
+Comes a still voice— Yet a few days, and thee   
+
+The all-beholding sun shall see no more   
+
+In all his course; nor yet in the cold ground,   
+
+Where thy pale form was laid, with many tears, 
